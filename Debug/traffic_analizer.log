@@ -1,5 +1,13 @@
 ﻿  source.cpp
-d:\projects\traffic_analizer\traffic_analizer\traffic_analizer\source.cpp(8): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+d:\projects\traffic_analizer\traffic_analizer\traffic_analizer\source.cpp(391): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(243): note:  см. объявление "freopen"
-d:\projects\traffic_analizer\traffic_analizer\traffic_analizer\source.cpp(12): warning C4101: source: неиспользованная локальная переменная
+d:\projects\traffic_analizer\traffic_analizer\traffic_analizer\source.cpp(393): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(243): note:  см. объявление "freopen"
+d:\projects\traffic_analizer\traffic_analizer\traffic_analizer\source.cpp(394): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note:  см. объявление "scanf"
+d:\projects\traffic_analizer\traffic_analizer\traffic_analizer\source.cpp(463): warning C4101: source: неиспользованная локальная переменная
+d:\projects\traffic_analizer\traffic_analizer\traffic_analizer\source.cpp(508): warning C4101: source: неиспользованная локальная переменная
+d:\projects\traffic_analizer\traffic_analizer\traffic_analizer\source.cpp(552): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(243): note:  см. объявление "freopen"
+d:\projects\traffic_analizer\traffic_analizer\traffic_analizer\source.cpp(545): warning C4715: start_analize: значение возвращается не при всех путях выполнения
   traffic_analizer.vcxproj -> D:\Projects\traffic_analizer\traffic_analizer\Debug\traffic_analizer.exe
